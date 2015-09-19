@@ -2,5 +2,4 @@
 
 This are the answer I have provided for freeCodeCamp exercises
 
-FreeCodeCamp is a collection of mostly free materials available online, that are put together to give you things you'd need to know.  
-It also provides a platform to work together with other people to help out non-profits.
+[freeCodeCamp](https://freecodecamp.com) is an open source community of busy people who learn to code and help nonprofits. Our 1,600 hour curriculum covers full stack JavaScript.
